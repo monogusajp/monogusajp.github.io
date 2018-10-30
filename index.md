@@ -1,8 +1,8 @@
 ---
 layout: default
-title: トップページ
+title: ものぐさ.jp
 ---
 
-# トップページです
+# ものぐさ.jp
 
-* [blog https://blog.monogusa.jp/]
+* [blog](https://blog.monogusa.jp/)
