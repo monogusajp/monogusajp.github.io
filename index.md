@@ -5,5 +5,4 @@ title: トップページ
 
 # トップページです
 
-* hoge
-* huga
+* [blog https://blog.monogusa.jp/]
